@@ -5,7 +5,6 @@ function Homepage() {
         <>
             <h1>Liverpool Player Guesser</h1>
             <p>How high can your score go?</p>
-            <button>start</button>
         </>
     );
 };
